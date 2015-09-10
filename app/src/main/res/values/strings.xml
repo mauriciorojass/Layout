@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Layout</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <color name="green">#24ff38</color>
+    <color name="yellow">#fffa0e</color>
+    <color name="blue">#1a1dff</color>
+    <color name="red">#ff1b0f</color>
+    <color name="orange">#ff9021</color>
+    <color name="violet">#a81aff</color>
+</resources>
